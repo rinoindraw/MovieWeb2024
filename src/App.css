@@ -1,0 +1,14 @@
+body {
+  transition: background-color 0.3s, color 0.3s;
+  font-family: sans-serif;
+}
+
+body.light {
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
