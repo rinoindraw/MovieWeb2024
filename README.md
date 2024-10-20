@@ -14,3 +14,5 @@ This is a movie web application built with [React](https://reactjs.org/) and [Vi
 - **Create Movie**: Users can add a new movie by providing dummy data such as title, description, release date, rating, and poster URL. The movie will be added to the local list and behave like any other movie in the app. 
 - **Update Movie**: Users can update existing movie details by editing fields such as title, description, release date, rating, and poster URL with dummy data.
 - **Responsive Design:** The application is responsive and works across multiple devices.
+
+![movieweb2](https://github.com/user-attachments/assets/1685fa91-0a57-4682-8932-43a238b810bd)
