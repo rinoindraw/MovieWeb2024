@@ -15,6 +15,7 @@ This is a movie web application built with [React](https://reactjs.org/) and [Vi
 - **Update Movie**: Users can update existing movie details by editing fields such as title, description, release date, rating, and poster URL with dummy data.
 - **Responsive Design:** The application is responsive and works across multiple devices.
 
+
 ![movieweb2](https://github.com/user-attachments/assets/1685fa91-0a57-4682-8932-43a238b810bd)
 
 ![movieweb1](https://github.com/user-attachments/assets/d39f3e5f-2a3a-4b70-a030-03d86edbab0d)
