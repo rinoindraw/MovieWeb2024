@@ -1,8 +1,16 @@
-# React + Vite
+# Movie Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a movie web application built with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/), fetching movie data from [TheMovieDB API](https://www.themoviedb.org/documentation/api). The app allows users to browse, search, filter, and sort through movies based on categories such as popular, top-rated, and upcoming. It also features bookmarking, dark/light mode, and CRUD operations for managing bookmarked movies.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Movie Listing:** Displays lists of movies across various categories (Popular, Top Rated, Upcoming, etc.).
+- **Search Functionality:** Allows users to search for movies, with the results persisting across different pages.
+- **Sorting & Filtering:** Movies can be sorted and filtered by genre, with search functionality overriding these when active.
+- **Pagination:** Pagination is applied to movie lists, fetching additional data from the API as needed.
+- **Bookmarking:** Users can bookmark their favorite movies and manage their list (add, update, delete).
+- **Dark/Light Mode:** The app supports theme toggling between dark and light modes.
+- **CRUD Operations:** Users can perform create, update, and delete actions on bookmarked movies.
+- **Create Movie**: Users can add a new movie by providing dummy data such as title, description, release date, rating, and poster URL. The movie will be added to the local list and behave like any other movie in the app. 
+- **Update Movie**: Users can update existing movie details by editing fields such as title, description, release date, rating, and poster URL with dummy data.
+- **Responsive Design:** The application is responsive and works across multiple devices.
