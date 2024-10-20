@@ -21,4 +21,4 @@ This is a movie web application built with [React](https://reactjs.org/) and [Vi
 
 ![movieweb1](https://github.com/user-attachments/assets/d39f3e5f-2a3a-4b70-a030-03d86edbab0d)
 
-![movieweb3](https://github.com/user-attachments/assets/5f5cab2e-2691-41c3-ae06-01a583c20b60)
+![movieweb3](https://github.com/user-attachments/assets/b5e1d406-9599-4783-8c65-68f8504aba18)
