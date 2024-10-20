@@ -16,8 +16,8 @@ This is a movie web application built with [React](https://reactjs.org/) and [Vi
 - **Responsive Design:** The application is responsive and works across multiple devices.
 
 <br />
-<br />
 
 ![movieweb2](https://github.com/user-attachments/assets/1685fa91-0a57-4682-8932-43a238b810bd)
+
 ![movieweb1](https://github.com/user-attachments/assets/d39f3e5f-2a3a-4b70-a030-03d86edbab0d)
 
